@@ -1,0 +1,61 @@
+.vendor {
+  border: 3px solid rgb(39, 33, 33);
+  border-radius: 5px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+.vendor__info {
+  display: flex;
+  align-items: center;
+}
+
+.vendor__image {
+  height: 110px;
+  width: 110px;
+}
+
+.vendor__details {
+  flex: 1;
+  padding: 0 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.vendor__name {
+  margin: 0;
+}
+
+.vendor__ratings {
+  /* Add your ratings styles here */
+}
+
+.vendor__address {
+  display: flex;
+  align-items: center;
+}
+
+.vendor__location-pin {
+  /* Add your location pin styles here */
+}
+
+.vendor__address-text {
+  margin: 0;
+  padding-left: 10px;
+}
+
+.vendor__dropdown-button {
+  height: 30px;
+  width: 30px;
+  border: 1px solid rgba(255, 0, 0, 0.668);
+  border-radius: 5px;
+  background-color: rgba(251, 137, 137, 0.688);
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.vendor__produce {
+  /* Add styles for produce section if needed */
+}

@@ -1,0 +1,50 @@
+.produce-list {
+  /* Add your produce list styles here */
+}
+
+.produce-item {
+  /* Add your produce item styles here */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.produce-image {
+  /* Add your produce image styles here */
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.produce-details {
+  /* Add your produce details styles here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.produce-title {
+  /* Add your produce title styles here */
+  margin: 0px;
+}
+
+.button {
+  /* Add your add button styles here */
+  height: 30px;
+  width: 30px;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.num-vegetables {
+  /* Add your number of vegetables styles here */
+}
+
+.list {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}

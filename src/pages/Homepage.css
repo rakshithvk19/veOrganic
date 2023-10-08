@@ -1,0 +1,14 @@
+.main {
+  background-color: rgba(255, 0, 0, 0.668);
+  height: calc(100vh - 5rem);
+}
+
+.vendor-section {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+.vendor-list-title {
+  margin: 0px;
+  padding: 10px;
+}
