@@ -39,6 +39,8 @@
 
 .vendor__location-pin {
   /* Add your location pin styles here */
+  height: 30px;
+  width: 30px;
 }
 
 .vendor__address-text {

@@ -8,9 +8,9 @@ export default function Homepage() {
     <main className="main">
       <section className="vendor-section">
         <h2 className="vendor-list-title">Vendor List</h2>
-        <VendorList />
-        <VendorList />
-        <VendorList />
+        <VendorList img={"src/assets/profile-pic-1.jpg"} />
+        <VendorList img={"src/assets/profile-pic-2.jpg"} />
+        <VendorList img={"src/assets/profile-pic-3.jpg"} />
       </section>
       <Footer />
     </main>

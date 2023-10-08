@@ -13,8 +13,10 @@
   /* Add your produce image styles here */
   height: 40px;
   width: 40px;
-  margin-right: 10px;
-  margin-left: 10px;
+  margin: 10px;
+
+  border: 1px solid black;
+  border-radius: 5px;
 }
 
 .produce-details {

@@ -1,6 +1,9 @@
 .main {
   background-color: rgba(255, 0, 0, 0.668);
   height: calc(100vh - 5rem);
+  margin-top: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
 }
 
 .vendor-section {
